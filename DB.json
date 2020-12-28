@@ -2,40 +2,40 @@
 
 [
     {
-    "subUnit":"מחלקה" ,
-    "status":"סטטוס",
+    "subUnit":"a" ,
+    "status":"a",
     "description":
         {
-        "text":"פירוט",
-        "color":"צבע מצב"
+        "text":"a",
+        "color":"a a"
         },
-    "reciever":"מקבל",
-    "recievedBy":"מוסר",
+    "reciever":"a",
+    "recievedBy":"a",
     "Date":"date object"
     },
     {
-    "subUnit":"מחלקה" ,
-    "status":"סטטוס",
+    "subUnit":"a" ,
+    "status":"a",
     "description":
         {
-        "text":"פירוט",
-        "color":"צבע מצב"
+        "text":"a",
+        "color":"a a"
         },
-    "reciever":"מקבל",
-    "recievedBy":"מוסר",
+    "reciever":"a",
+    "recievedBy":"a",
     "Date":"date object"
     },
     {
-    "subUnit":"מחלקה" ,
-    "status":"סטטוס",
+    "subUnit":"a" ,
+    "status":"a",
     "description":
         {
-        "text":"פירוט",
-        "color":"צבע מצב"
+        "text":"a",
+        "color":"a a"
         },
-    "reciever":"מקבל",
-    "recievedBy":"מוסר",
-    "Date":"שניות$מחרוזת תאריך"
+    "reciever":"a",
+    "recievedBy":"a",
+    "Date":"a"
     }
 ]
 

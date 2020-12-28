@@ -1,0 +1,42 @@
+
+
+[
+    {
+    "subUnit":"מחלקה" ,
+    "status":"סטטוס",
+    "description":
+        {
+        "text":"פירוט",
+        "color":"צבע מצב"
+        },
+    "reciever":"מקבל",
+    "recievedBy":"מוסר",
+    "Date":"date object"
+    },
+    {
+    "subUnit":"מחלקה" ,
+    "status":"סטטוס",
+    "description":
+        {
+        "text":"פירוט",
+        "color":"צבע מצב"
+        },
+    "reciever":"מקבל",
+    "recievedBy":"מוסר",
+    "Date":"date object"
+    },
+    {
+    "subUnit":"מחלקה" ,
+    "status":"סטטוס",
+    "description":
+        {
+        "text":"פירוט",
+        "color":"צבע מצב"
+        },
+    "reciever":"מקבל",
+    "recievedBy":"מוסר",
+    "Date":"שניות$מחרוזת תאריך"
+    }
+]
+
+
